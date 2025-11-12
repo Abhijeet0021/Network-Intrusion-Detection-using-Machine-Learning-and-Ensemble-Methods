@@ -115,13 +115,6 @@ The main goal is to improve the detection of both **common** and **rare** cybera
 
 ---
 
-## 📚 References
-IEEE Research Papers used for literature review include:
-1. Lin, Z.-Z., Pike, T.D., Bailey, M.M., & Bastian, N.D. (2024). *A Hypergraph-Based Machine Learning Ensemble Network Intrusion Detection System.* IEEE Transactions on SMC: Systems.  
-2. Andalib, A., & Vakili, V.T. (2020). *An Autonomous Intrusion Detection System Using an Ensemble of Advanced Learners.* IEEE ICEE.  
-3. Sohail, A. et al. (2023). *Deep Neural Networks based Meta-Learning for Network Intrusion Detection.*  
-4. Rahman, M.M. et al. (2024). *Hybrid Model (SMOTE + XGBoost) for Intrusion Detection.*
-
 ---
 
 ## 🧑‍💻 Authors
