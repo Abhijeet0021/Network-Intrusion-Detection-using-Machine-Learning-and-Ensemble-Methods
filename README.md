@@ -119,11 +119,11 @@ The main goal is to improve the detection of both **common** and **rare** cybera
 
 ## 🧑‍💻 Authors
 
-| Name | Enrollment No. | Role |
-|------|----------------|------|
-| **Ravi Raushan Vishwakarma** | 22103183 | Data Preprocessing & Model Development |
-| **Viyom Shukla** | 22803030 | Data Augmentation & Visualization |
-| **Abhijeet Kumar** | 22803029 | Feature Selection, Evaluation & Documentation |
+| Name  | Role |
+|------|------|
+| **Ravi Raushan Vishwakarma** |  Data Preprocessing & Model Development |
+| **Viyom Shukla** |  Data Augmentation & Visualization |
+| **Abhijeet Kumar** | Feature Selection, Evaluation & Documentation |
 
 ---
 
